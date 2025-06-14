@@ -14,6 +14,6 @@
 - **Библиотеки**: Gson (парсинг JSON), Glide (загрузка иконок погоды).
 
 ## 🖼️ Скриншоты
-![Screenshot_20250614_235303](https://github.com/user-attachments/assets/e0f6bd93-6d6e-44c2-b008-a98e7fdcbb46)
-![Screenshot_20250614_235229](https://github.com/user-attachments/assets/d47f17d5-76b9-4336-8569-1b4cb892643b)
-![Screenshot_20250614_235141](https://github.com/user-attachments/assets/2db816dd-4096-45a1-8270-c8b15641cfdb)
+![Screenshot_20250614_235303](https://github.com/user-attachments/assets/e0f6bd93-6d6e-44c2-b008-a98e7fdcbb46){:width="300px"}
+![Screenshot_20250614_235229](https://github.com/user-attachments/assets/d47f17d5-76b9-4336-8569-1b4cb892643b){:width="300px"}
+![Screenshot_20250614_235141](https://github.com/user-attachments/assets/2db816dd-4096-45a1-8270-c8b15641cfdb){:width="300px"}
